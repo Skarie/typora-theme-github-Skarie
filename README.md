@@ -20,6 +20,7 @@ typora-copy-images-to: ../../media/theme/Skarie
 
 
 
- ![[skarie.png]]
+ ![skarie.png](https://github.com/Skarie/typora-theme-github-Skarie/raw/main/skarie.png)
 
-![[1.png]]![[2.png]]
+![1.png](https://github.com/Skarie/typora-theme-github-Skarie/raw/main/1.png)
+![2.png](https://github.com/Skarie/typora-theme-github-Skarie/raw/main/2.png)
